@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+<path transform="translate(0)" d="m0 0h1024v1024h-1024z" fill="#FCFCFD"/>
+<path transform="translate(466,453)" d="m0 0h18l13 3 12 6 8 7 7 10 5 12 2 13-1 17-3 12-6 11-8 9-11 7-13 4-6 1h-16l-16-4-12-7-8-8-6-10-4-14-1-8v-11l3-16 6-12 9-10 9-6 10-4z" fill="#0E100E"/>
+<path transform="translate(677,453)" d="m0 0h21l12 3 11 6 6 7 4 10 1 6v77h-25l-1-1-1-10-5 5-5 4-11 4-6 1h-12l-12-3-9-6-6-8-2-8v-13l3-9 4-6 8-6 10-4 15-3 27-4v-10l-3-5-5-4-3-1h-13l-8 4-4 5-2 4h-25l1-7 4-9 6-8 9-6 11-4z" fill="#0E100E"/>
+<path transform="translate(856,453)" d="m0 0h17l12 3 11 6 7 7 7 12 3 13v22h-72l3 13 4 6 7 6 6 2h11l7-3 5-6 3-3h23l-1 8-7 11-9 8-8 4-12 3h-15l-16-4-11-7-7-7-6-10-4-13-1-8v-13l3-16 7-14 9-10 12-7z" fill="#0E100E"/>
+<path transform="translate(360,453)" d="m0 0h15l11 3 8 5 6 7 4 9 2 14v68l-1 2-4 1h-22l-1-1-1-64-2-11-4-5-7-3h-9l-8 3-5 4-4 9-1 67-4 1h-24l-1-1v-105l4-1h19l5 1 1 10 8-7 11-5z" fill="#0E100E"/>
+<path transform="translate(242,453)" d="m0 0h15l11 3 9 6 6 8 3 8 1 5v78l-2 1h-25l-1-1-1-69-3-8-6-5-3-1h-11l-8 4-6 7-2 6-1 66-3 1h-24l-1-1v-105l5-1h16l6 1 1 10 10-8 9-4z" fill="#0E100E"/>
+<path transform="translate(532,456)" d="m0 0h28l12 36 13 41 13-38 12-37 1-2h28l-3 10-35 95-1 1h-32l-7-18-24-71-5-14z" fill="#0E100E"/>
+<path transform="translate(803,453)" d="m0 0h8v28h-13l-10 4-7 8-3 7-1 5-1 56-3 1h-23l-1-14v-91l1-1h24l1 16 9-10 9-6z" fill="#0E100E"/>
+<path transform="translate(143,455)" d="m0 0h18l6 1v105l-4 1h-25l-1-5v-101z" fill="#0E100E"/>
+<path transform="translate(470,476)" d="m0 0h11l8 3 8 8 4 10 1 4v17l-4 12-7 8-8 4h-15l-9-5-6-7-3-7-1-5v-17l3-10 6-9 6-4z" fill="#FBFCFD"/>
+<path transform="translate(145,384)" d="m0 0h14l10 5 7 8 3 7 1 10-3 10-7 9-10 5-4 1h-9l-10-4-8-7-4-7-1-4v-11l4-10 5-6 8-5z" fill="#0089FF"/>
+<path transform="translate(701,513)" d="m0 0h4v10l-3 10-7 8-7 3h-14l-6-3-3-4-1-9 4-7 8-4 16-3z" fill="#FBFCFD"/>
+<path transform="translate(859,475)" d="m0 0h11l8 4 6 7 3 10-1 2h-44l2-10 6-8 6-4z" fill="#FBFCFD"/>
+</svg>
